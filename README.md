@@ -12,4 +12,8 @@ Instalação do Wazuh no Linux Server 24.04.1
 
 ![image](https://github.com/user-attachments/assets/562595aa-32dd-4676-8d39-3fabbd423c57)
 
+#Interface do Sistema
+![image](https://github.com/user-attachments/assets/919bcfd6-e5fc-407e-9d06-fa8033c61315)
+
+
 
